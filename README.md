@@ -6,7 +6,7 @@
 
    <img src="Images\AzLogin.png" alt="iisconfigure"></img>
 
-1. Browse the URL provided in the command line and copy the code and paset it in the textbox provided. Click on Continue button.
+1. Browse the URL provided in the command line and copy the code and paste it in the textbox provided. Click on Continue button.
 
 1. Once you logged in successfully, console will display you information related to your subscription.
     ```
